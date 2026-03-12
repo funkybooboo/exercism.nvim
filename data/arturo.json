@@ -48,6 +48,10 @@
     "type": "practice"
   },
   {
+    "name": "diamond",
+    "type": "practice"
+  },
+  {
     "name": "difference-of-squares",
     "type": "practice"
   },
@@ -124,6 +128,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "luhn",
     "type": "practice"
   },
@@ -164,7 +172,15 @@
     "type": "practice"
   },
   {
+    "name": "pig-latin",
+    "type": "practice"
+  },
+  {
     "name": "prime-factors",
+    "type": "practice"
+  },
+  {
+    "name": "prism",
     "type": "practice"
   },
   {
@@ -181,6 +197,10 @@
   },
   {
     "name": "raindrops",
+    "type": "practice"
+  },
+  {
+    "name": "relative-distance",
     "type": "practice"
   },
   {
@@ -233,6 +253,10 @@
   },
   {
     "name": "space-age",
+    "type": "practice"
+  },
+  {
+    "name": "spiral-matrix",
     "type": "practice"
   },
   {

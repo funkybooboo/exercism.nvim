@@ -8,11 +8,23 @@
     "type": "concept"
   },
   {
+    "name": "bakery-order-system",
+    "type": "concept"
+  },
+  {
     "name": "calculator-conundrum",
     "type": "concept"
   },
   {
+    "name": "cars-assemble",
+    "type": "concept"
+  },
+  {
     "name": "chrono-realms-chrono-chain",
+    "type": "concept"
+  },
+  {
+    "name": "chrono-realms-time-tree",
     "type": "concept"
   },
   {
@@ -64,7 +76,15 @@
     "type": "concept"
   },
   {
+    "name": "the-farm",
+    "type": "concept"
+  },
+  {
     "name": "the-realm-of-echoes",
+    "type": "concept"
+  },
+  {
+    "name": "weather-report",
     "type": "concept"
   },
   {

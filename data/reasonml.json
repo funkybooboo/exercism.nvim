@@ -36,6 +36,14 @@
     "type": "practice"
   },
   {
+    "name": "collatz-conjecture",
+    "type": "practice"
+  },
+  {
+    "name": "eliuds-eggs",
+    "type": "practice"
+  },
+  {
     "name": "flower-field",
     "type": "practice"
   },
@@ -101,6 +109,10 @@
   },
   {
     "name": "space-age",
+    "type": "practice"
+  },
+  {
+    "name": "square-root",
     "type": "practice"
   },
   {

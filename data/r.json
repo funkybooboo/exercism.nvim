@@ -4,7 +4,19 @@
     "type": "concept"
   },
   {
+    "name": "bird-watcher",
+    "type": "concept"
+  },
+  {
+    "name": "blackjack",
+    "type": "concept"
+  },
+  {
     "name": "cars-assemble",
+    "type": "concept"
+  },
+  {
+    "name": "elyses-analytic-enchantments",
     "type": "concept"
   },
   {
@@ -13,6 +25,30 @@
   },
   {
     "name": "lasagna",
+    "type": "concept"
+  },
+  {
+    "name": "log-levels",
+    "type": "concept"
+  },
+  {
+    "name": "mixed-juices",
+    "type": "concept"
+  },
+  {
+    "name": "name-badges",
+    "type": "concept"
+  },
+  {
+    "name": "named-resistor-color",
+    "type": "concept"
+  },
+  {
+    "name": "need-for-speed",
+    "type": "concept"
+  },
+  {
+    "name": "ozans-playlist",
     "type": "concept"
   },
   {

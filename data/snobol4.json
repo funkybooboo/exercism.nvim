@@ -1,0 +1,22 @@
+[
+  {
+    "name": "hello-world",
+    "type": "practice"
+  },
+  {
+    "name": "isogram",
+    "type": "practice"
+  },
+  {
+    "name": "leap",
+    "type": "practice"
+  },
+  {
+    "name": "pangram",
+    "type": "practice"
+  },
+  {
+    "name": "raindrops",
+    "type": "practice"
+  }
+]

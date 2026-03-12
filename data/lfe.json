@@ -80,6 +80,14 @@
     "type": "practice"
   },
   {
+    "name": "flower-field",
+    "type": "practice"
+  },
+  {
+    "name": "game-of-life",
+    "type": "practice"
+  },
+  {
     "name": "gigasecond",
     "type": "practice"
   },
@@ -121,6 +129,10 @@
   },
   {
     "name": "leap",
+    "type": "practice"
+  },
+  {
+    "name": "line-up",
     "type": "practice"
   },
   {
@@ -177,6 +189,10 @@
   },
   {
     "name": "resistor-color-duo",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-trio",
     "type": "practice"
   },
   {

@@ -80,6 +80,10 @@
     "type": "practice"
   },
   {
+    "name": "affine-cipher",
+    "type": "practice"
+  },
+  {
     "name": "all-your-base",
     "type": "practice"
   },
@@ -164,6 +168,10 @@
     "type": "practice"
   },
   {
+    "name": "dnd-character",
+    "type": "practice"
+  },
+  {
     "name": "dominoes",
     "type": "practice"
   },
@@ -181,6 +189,10 @@
   },
   {
     "name": "food-chain",
+    "type": "practice"
+  },
+  {
+    "name": "game-of-life",
     "type": "practice"
   },
   {
@@ -404,6 +416,10 @@
     "type": "practice"
   },
   {
+    "name": "sgf-parsing",
+    "type": "practice"
+  },
+  {
     "name": "sieve",
     "type": "practice"
   },
@@ -421,6 +437,10 @@
   },
   {
     "name": "spiral-matrix",
+    "type": "practice"
+  },
+  {
+    "name": "square-root",
     "type": "practice"
   },
   {
@@ -469,6 +489,10 @@
   },
   {
     "name": "wordy",
+    "type": "practice"
+  },
+  {
+    "name": "yacht",
     "type": "practice"
   }
 ]

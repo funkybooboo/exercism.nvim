@@ -128,6 +128,10 @@
     "type": "practice"
   },
   {
+    "name": "isbn-verifier",
+    "type": "practice"
+  },
+  {
     "name": "isogram",
     "type": "practice"
   },
@@ -145,6 +149,10 @@
   },
   {
     "name": "leap",
+    "type": "practice"
+  },
+  {
+    "name": "line-up",
     "type": "practice"
   },
   {

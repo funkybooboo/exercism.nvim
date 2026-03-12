@@ -16,6 +16,10 @@
     "type": "practice"
   },
   {
+    "name": "armstrong-numbers",
+    "type": "practice"
+  },
+  {
     "name": "atbash-cipher",
     "type": "practice"
   },
@@ -44,6 +48,10 @@
     "type": "practice"
   },
   {
+    "name": "collatz-conjecture",
+    "type": "practice"
+  },
+  {
     "name": "connect",
     "type": "practice"
   },
@@ -57,6 +65,10 @@
   },
   {
     "name": "difference-of-squares",
+    "type": "practice"
+  },
+  {
+    "name": "dnd-character",
     "type": "practice"
   },
   {
@@ -100,6 +112,10 @@
     "type": "practice"
   },
   {
+    "name": "isbn-verifier",
+    "type": "practice"
+  },
+  {
     "name": "isogram",
     "type": "practice"
   },
@@ -132,6 +148,10 @@
     "type": "practice"
   },
   {
+    "name": "nth-prime",
+    "type": "practice"
+  },
+  {
     "name": "nucleotide-count",
     "type": "practice"
   },
@@ -141,6 +161,10 @@
   },
   {
     "name": "pangram",
+    "type": "practice"
+  },
+  {
+    "name": "perfect-numbers",
     "type": "practice"
   },
   {
@@ -188,6 +212,10 @@
     "type": "practice"
   },
   {
+    "name": "scrabble-score",
+    "type": "practice"
+  },
+  {
     "name": "sieve",
     "type": "practice"
   },
@@ -196,7 +224,19 @@
     "type": "practice"
   },
   {
+    "name": "square-root",
+    "type": "practice"
+  },
+  {
+    "name": "sum-of-multiples",
+    "type": "practice"
+  },
+  {
     "name": "triangle",
+    "type": "practice"
+  },
+  {
+    "name": "two-fer",
     "type": "practice"
   },
   {

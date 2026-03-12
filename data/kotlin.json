@@ -4,6 +4,10 @@
     "type": "concept"
   },
   {
+    "name": "log-levels",
+    "type": "concept"
+  },
+  {
     "name": "lucians-luscious-lasagna",
     "type": "concept"
   },
@@ -61,6 +65,10 @@
   },
   {
     "name": "bob",
+    "type": "practice"
+  },
+  {
+    "name": "bottle-song",
     "type": "practice"
   },
   {

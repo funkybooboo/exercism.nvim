@@ -192,6 +192,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "luhn",
     "type": "practice"
   },
@@ -265,6 +269,10 @@
   },
   {
     "name": "raindrops",
+    "type": "practice"
+  },
+  {
+    "name": "relative-distance",
     "type": "practice"
   },
   {

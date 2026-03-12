@@ -28,6 +28,10 @@
     "type": "practice"
   },
   {
+    "name": "alphametics",
+    "type": "practice"
+  },
+  {
     "name": "anagram",
     "type": "practice"
   },
@@ -65,6 +69,10 @@
   },
   {
     "name": "bowling",
+    "type": "practice"
+  },
+  {
+    "name": "camicia",
     "type": "practice"
   },
   {
@@ -196,6 +204,10 @@
     "type": "practice"
   },
   {
+    "name": "intergalactic-transmission",
+    "type": "practice"
+  },
+  {
     "name": "isbn-verifier",
     "type": "practice"
   },
@@ -225,6 +237,10 @@
   },
   {
     "name": "ledger",
+    "type": "practice"
+  },
+  {
+    "name": "line-up",
     "type": "practice"
   },
   {
@@ -284,6 +300,10 @@
     "type": "practice"
   },
   {
+    "name": "parallel-letter-frequency",
+    "type": "practice"
+  },
+  {
     "name": "pascals-triangle",
     "type": "practice"
   },
@@ -293,6 +313,10 @@
   },
   {
     "name": "phone-number",
+    "type": "practice"
+  },
+  {
+    "name": "piecing-it-together",
     "type": "practice"
   },
   {
@@ -445,6 +469,10 @@
   },
   {
     "name": "spiral-matrix",
+    "type": "practice"
+  },
+  {
+    "name": "split-second-stopwatch",
     "type": "practice"
   },
   {

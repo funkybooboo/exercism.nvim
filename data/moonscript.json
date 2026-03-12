@@ -1,10 +1,18 @@
 [
   {
-    "name": "accumulate",
+    "name": "acronym",
     "type": "practice"
   },
   {
     "name": "all-your-base",
+    "type": "practice"
+  },
+  {
+    "name": "allergies",
+    "type": "practice"
+  },
+  {
+    "name": "anagram",
     "type": "practice"
   },
   {
@@ -13,6 +21,10 @@
   },
   {
     "name": "atbash-cipher",
+    "type": "practice"
+  },
+  {
+    "name": "bank-account",
     "type": "practice"
   },
   {
@@ -28,7 +40,23 @@
     "type": "practice"
   },
   {
+    "name": "camicia",
+    "type": "practice"
+  },
+  {
+    "name": "change",
+    "type": "practice"
+  },
+  {
+    "name": "clock",
+    "type": "practice"
+  },
+  {
     "name": "collatz-conjecture",
+    "type": "practice"
+  },
+  {
+    "name": "complex-numbers",
     "type": "practice"
   },
   {
@@ -40,7 +68,7 @@
     "type": "practice"
   },
   {
-    "name": "dominoes",
+    "name": "dnd-character",
     "type": "practice"
   },
   {
@@ -48,15 +76,15 @@
     "type": "practice"
   },
   {
-    "name": "flatten-array",
+    "name": "etl",
     "type": "practice"
   },
   {
-    "name": "game-of-life",
+    "name": "flower-field",
     "type": "practice"
   },
   {
-    "name": "grains",
+    "name": "forth",
     "type": "practice"
   },
   {
@@ -76,14 +104,6 @@
     "type": "practice"
   },
   {
-    "name": "kindergarten-garden",
-    "type": "practice"
-  },
-  {
-    "name": "knapsack",
-    "type": "practice"
-  },
-  {
     "name": "largest-series-product",
     "type": "practice"
   },
@@ -92,15 +112,11 @@
     "type": "practice"
   },
   {
-    "name": "lens-person",
-    "type": "practice"
-  },
-  {
     "name": "line-up",
     "type": "practice"
   },
   {
-    "name": "list-ops",
+    "name": "linked-list",
     "type": "practice"
   },
   {
@@ -112,7 +128,7 @@
     "type": "practice"
   },
   {
-    "name": "meetup",
+    "name": "matrix",
     "type": "practice"
   },
   {
@@ -128,15 +144,15 @@
     "type": "practice"
   },
   {
+    "name": "palindrome-products",
+    "type": "practice"
+  },
+  {
     "name": "pangram",
     "type": "practice"
   },
   {
-    "name": "perfect-numbers",
-    "type": "practice"
-  },
-  {
-    "name": "phone-number",
+    "name": "pig-latin",
     "type": "practice"
   },
   {
@@ -144,11 +160,23 @@
     "type": "practice"
   },
   {
-    "name": "pythagorean-triplet",
+    "name": "prism",
+    "type": "practice"
+  },
+  {
+    "name": "proverb",
+    "type": "practice"
+  },
+  {
+    "name": "queen-attack",
     "type": "practice"
   },
   {
     "name": "raindrops",
+    "type": "practice"
+  },
+  {
+    "name": "react",
     "type": "practice"
   },
   {
@@ -180,11 +208,11 @@
     "type": "practice"
   },
   {
-    "name": "rotational-cipher",
+    "name": "run-length-encoding",
     "type": "practice"
   },
   {
-    "name": "run-length-encoding",
+    "name": "saddle-points",
     "type": "practice"
   },
   {
@@ -192,11 +220,11 @@
     "type": "practice"
   },
   {
-    "name": "scrabble-score",
+    "name": "say",
     "type": "practice"
   },
   {
-    "name": "secret-handshake",
+    "name": "scrabble-score",
     "type": "practice"
   },
   {
@@ -205,6 +233,14 @@
   },
   {
     "name": "space-age",
+    "type": "practice"
+  },
+  {
+    "name": "spiral-matrix",
+    "type": "practice"
+  },
+  {
+    "name": "split-second-stopwatch",
     "type": "practice"
   },
   {
@@ -220,11 +256,23 @@
     "type": "practice"
   },
   {
+    "name": "twelve-days",
+    "type": "practice"
+  },
+  {
+    "name": "two-bucket",
+    "type": "practice"
+  },
+  {
     "name": "two-fer",
     "type": "practice"
   },
   {
-    "name": "zebra-puzzle",
+    "name": "word-count",
+    "type": "practice"
+  },
+  {
+    "name": "yacht",
     "type": "practice"
   }
 ]

@@ -64,6 +64,10 @@
     "type": "practice"
   },
   {
+    "name": "camicia",
+    "type": "practice"
+  },
+  {
     "name": "change",
     "type": "practice"
   },
@@ -81,6 +85,10 @@
   },
   {
     "name": "complex-numbers",
+    "type": "practice"
+  },
+  {
+    "name": "connect",
     "type": "practice"
   },
   {
@@ -105,6 +113,10 @@
   },
   {
     "name": "dnd-character",
+    "type": "practice"
+  },
+  {
+    "name": "dominoes",
     "type": "practice"
   },
   {
@@ -196,6 +208,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "linked-list",
     "type": "practice"
   },
@@ -216,6 +232,14 @@
     "type": "practice"
   },
   {
+    "name": "meetup",
+    "type": "practice"
+  },
+  {
+    "name": "micro-blog",
+    "type": "practice"
+  },
+  {
     "name": "minesweeper",
     "type": "practice"
   },
@@ -225,6 +249,10 @@
   },
   {
     "name": "nucleotide-count",
+    "type": "practice"
+  },
+  {
+    "name": "ocr-numbers",
     "type": "practice"
   },
   {
@@ -249,6 +277,10 @@
   },
   {
     "name": "phone-number",
+    "type": "practice"
+  },
+  {
+    "name": "piecing-it-together",
     "type": "practice"
   },
   {
@@ -292,6 +324,10 @@
     "type": "practice"
   },
   {
+    "name": "relative-distance",
+    "type": "practice"
+  },
+  {
     "name": "resistor-color-duo",
     "type": "practice"
   },
@@ -332,11 +368,27 @@
     "type": "practice"
   },
   {
+    "name": "saddle-points",
+    "type": "practice"
+  },
+  {
+    "name": "satellite",
+    "type": "practice"
+  },
+  {
+    "name": "say",
+    "type": "practice"
+  },
+  {
     "name": "scrabble-score",
     "type": "practice"
   },
   {
     "name": "secret-handshake",
+    "type": "practice"
+  },
+  {
+    "name": "series",
     "type": "practice"
   },
   {
@@ -360,6 +412,10 @@
     "type": "practice"
   },
   {
+    "name": "split-second-stopwatch",
+    "type": "practice"
+  },
+  {
     "name": "square-root",
     "type": "practice"
   },
@@ -377,6 +433,14 @@
   },
   {
     "name": "sum-of-multiples",
+    "type": "practice"
+  },
+  {
+    "name": "tournament",
+    "type": "practice"
+  },
+  {
+    "name": "transpose",
     "type": "practice"
   },
   {

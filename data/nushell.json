@@ -1,0 +1,50 @@
+[
+  {
+    "name": "collatz-conjecture",
+    "type": "practice"
+  },
+  {
+    "name": "dnd-character",
+    "type": "practice"
+  },
+  {
+    "name": "forth",
+    "type": "practice"
+  },
+  {
+    "name": "grep",
+    "type": "practice"
+  },
+  {
+    "name": "hello-world",
+    "type": "practice"
+  },
+  {
+    "name": "isogram",
+    "type": "practice"
+  },
+  {
+    "name": "parallel-letter-frequency",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-duo",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-trio",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color",
+    "type": "practice"
+  },
+  {
+    "name": "strain",
+    "type": "practice"
+  },
+  {
+    "name": "two-fer",
+    "type": "practice"
+  }
+]

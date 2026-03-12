@@ -48,6 +48,10 @@
     "type": "practice"
   },
   {
+    "name": "bottle-song",
+    "type": "practice"
+  },
+  {
     "name": "circular-buffer",
     "type": "practice"
   },
@@ -73,6 +77,10 @@
   },
   {
     "name": "dnd-character",
+    "type": "practice"
+  },
+  {
+    "name": "dominoes",
     "type": "practice"
   },
   {
@@ -148,6 +156,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "linked-list",
     "type": "practice"
   },
@@ -161,6 +173,10 @@
   },
   {
     "name": "matching-brackets",
+    "type": "practice"
+  },
+  {
+    "name": "matrix",
     "type": "practice"
   },
   {
@@ -332,6 +348,10 @@
     "type": "practice"
   },
   {
+    "name": "twelve-days",
+    "type": "practice"
+  },
+  {
     "name": "two-bucket",
     "type": "practice"
   },
@@ -345,6 +365,10 @@
   },
   {
     "name": "word-count",
+    "type": "practice"
+  },
+  {
+    "name": "wordy",
     "type": "practice"
   },
   {

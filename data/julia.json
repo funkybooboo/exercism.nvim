@@ -12,6 +12,10 @@
     "type": "concept"
   },
   {
+    "name": "boutique-suggestions",
+    "type": "concept"
+  },
+  {
     "name": "captains-log",
     "type": "concept"
   },
@@ -21,6 +25,10 @@
   },
   {
     "name": "cater-waiter",
+    "type": "concept"
+  },
+  {
+    "name": "cheese-club",
     "type": "concept"
   },
   {
@@ -40,7 +48,15 @@
     "type": "concept"
   },
   {
+    "name": "exercism-matrix",
+    "type": "concept"
+  },
+  {
     "name": "factory-sensors",
+    "type": "concept"
+  },
+  {
+    "name": "fibonacci-iterator",
     "type": "concept"
   },
   {
@@ -69,6 +85,10 @@
   },
   {
     "name": "log-levels",
+    "type": "concept"
+  },
+  {
+    "name": "mecha-munch-management",
     "type": "concept"
   },
   {
@@ -104,14 +124,6 @@
     "type": "concept"
   },
   {
-    "name": "old-exercism-matrix",
-    "type": "concept"
-  },
-  {
-    "name": "old-fibonacci-iterator",
-    "type": "concept"
-  },
-  {
     "name": "old-high-score",
     "type": "concept"
   },
@@ -125,6 +137,10 @@
   },
   {
     "name": "old-vehicle-purchase",
+    "type": "concept"
+  },
+  {
+    "name": "ordering-ordeal",
     "type": "concept"
   },
   {
@@ -189,6 +205,10 @@
   },
   {
     "name": "atbash-cipher",
+    "type": "practice"
+  },
+  {
+    "name": "baffling-birthdays",
     "type": "practice"
   },
   {
@@ -296,6 +316,10 @@
     "type": "practice"
   },
   {
+    "name": "intergalactic-transmission",
+    "type": "practice"
+  },
+  {
     "name": "isbn-verifier",
     "type": "practice"
   },
@@ -341,6 +365,10 @@
   },
   {
     "name": "minesweeper",
+    "type": "practice"
+  },
+  {
+    "name": "nth-prime",
     "type": "practice"
   },
   {
@@ -444,6 +472,10 @@
     "type": "practice"
   },
   {
+    "name": "satellite",
+    "type": "practice"
+  },
+  {
     "name": "scrabble-score",
     "type": "practice"
   },
@@ -468,11 +500,19 @@
     "type": "practice"
   },
   {
+    "name": "state-of-tic-tac-toe",
+    "type": "practice"
+  },
+  {
     "name": "strain",
     "type": "practice"
   },
   {
     "name": "sum-of-multiples",
+    "type": "practice"
+  },
+  {
+    "name": "swift-scheduling",
     "type": "practice"
   },
   {

@@ -116,6 +116,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "luhn",
     "type": "practice"
   },
@@ -181,6 +185,10 @@
   },
   {
     "name": "resistor-color-duo",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-trio",
     "type": "practice"
   },
   {
@@ -257,6 +265,10 @@
   },
   {
     "name": "two-fer",
+    "type": "practice"
+  },
+  {
+    "name": "yacht",
     "type": "practice"
   },
   {

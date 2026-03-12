@@ -56,6 +56,10 @@
     "type": "practice"
   },
   {
+    "name": "camicia",
+    "type": "practice"
+  },
+  {
     "name": "change",
     "type": "practice"
   },
@@ -172,6 +176,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "linked-list",
     "type": "practice"
   },
@@ -220,6 +228,10 @@
     "type": "practice"
   },
   {
+    "name": "parallel-letter-frequency",
+    "type": "practice"
+  },
+  {
     "name": "pascals-triangle",
     "type": "practice"
   },
@@ -237,6 +249,10 @@
   },
   {
     "name": "prime-factors",
+    "type": "practice"
+  },
+  {
+    "name": "prism",
     "type": "practice"
   },
   {
@@ -296,6 +312,18 @@
     "type": "practice"
   },
   {
+    "name": "saddle-points",
+    "type": "practice"
+  },
+  {
+    "name": "satellite",
+    "type": "practice"
+  },
+  {
+    "name": "say",
+    "type": "practice"
+  },
+  {
     "name": "scrabble-score",
     "type": "practice"
   },
@@ -324,7 +352,15 @@
     "type": "practice"
   },
   {
+    "name": "split-second-stopwatch",
+    "type": "practice"
+  },
+  {
     "name": "square-root",
+    "type": "practice"
+  },
+  {
+    "name": "state-of-tic-tac-toe",
     "type": "practice"
   },
   {

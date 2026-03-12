@@ -1,10 +1,22 @@
 [
   {
-    "name": "accumulate",
+    "name": "acronym",
+    "type": "practice"
+  },
+  {
+    "name": "affine-cipher",
     "type": "practice"
   },
   {
     "name": "all-your-base",
+    "type": "practice"
+  },
+  {
+    "name": "allergies",
+    "type": "practice"
+  },
+  {
+    "name": "anagram",
     "type": "practice"
   },
   {
@@ -13,6 +25,14 @@
   },
   {
     "name": "atbash-cipher",
+    "type": "practice"
+  },
+  {
+    "name": "bank-account",
+    "type": "practice"
+  },
+  {
+    "name": "binary-search-tree",
     "type": "practice"
   },
   {
@@ -28,7 +48,35 @@
     "type": "practice"
   },
   {
+    "name": "camicia",
+    "type": "practice"
+  },
+  {
+    "name": "change",
+    "type": "practice"
+  },
+  {
+    "name": "clock",
+    "type": "practice"
+  },
+  {
     "name": "collatz-conjecture",
+    "type": "practice"
+  },
+  {
+    "name": "complex-numbers",
+    "type": "practice"
+  },
+  {
+    "name": "connect",
+    "type": "practice"
+  },
+  {
+    "name": "crypto-square",
+    "type": "practice"
+  },
+  {
+    "name": "custom-set",
     "type": "practice"
   },
   {
@@ -36,7 +84,15 @@
     "type": "practice"
   },
   {
+    "name": "diamond",
+    "type": "practice"
+  },
+  {
     "name": "difference-of-squares",
+    "type": "practice"
+  },
+  {
+    "name": "dnd-character",
     "type": "practice"
   },
   {
@@ -48,7 +104,15 @@
     "type": "practice"
   },
   {
+    "name": "etl",
+    "type": "practice"
+  },
+  {
     "name": "flatten-array",
+    "type": "practice"
+  },
+  {
+    "name": "forth",
     "type": "practice"
   },
   {
@@ -56,7 +120,15 @@
     "type": "practice"
   },
   {
+    "name": "gigasecond",
+    "type": "practice"
+  },
+  {
     "name": "grains",
+    "type": "practice"
+  },
+  {
+    "name": "grep",
     "type": "practice"
   },
   {
@@ -65,6 +137,14 @@
   },
   {
     "name": "hello-world",
+    "type": "practice"
+  },
+  {
+    "name": "high-scores",
+    "type": "practice"
+  },
+  {
+    "name": "house",
     "type": "practice"
   },
   {
@@ -92,15 +172,11 @@
     "type": "practice"
   },
   {
-    "name": "lens-person",
-    "type": "practice"
-  },
-  {
     "name": "line-up",
     "type": "practice"
   },
   {
-    "name": "list-ops",
+    "name": "linked-list",
     "type": "practice"
   },
   {
@@ -112,11 +188,11 @@
     "type": "practice"
   },
   {
-    "name": "meetup",
+    "name": "matrix",
     "type": "practice"
   },
   {
-    "name": "micro-blog",
+    "name": "meetup",
     "type": "practice"
   },
   {
@@ -124,11 +200,15 @@
     "type": "practice"
   },
   {
-    "name": "nucleotide-count",
+    "name": "palindrome-products",
     "type": "practice"
   },
   {
     "name": "pangram",
+    "type": "practice"
+  },
+  {
+    "name": "parallel-letter-frequency",
     "type": "practice"
   },
   {
@@ -144,7 +224,15 @@
     "type": "practice"
   },
   {
+    "name": "protein-translation",
+    "type": "practice"
+  },
+  {
     "name": "pythagorean-triplet",
+    "type": "practice"
+  },
+  {
+    "name": "rail-fence-cipher",
     "type": "practice"
   },
   {
@@ -152,15 +240,15 @@
     "type": "practice"
   },
   {
-    "name": "resistor-color-duo",
+    "name": "rational-numbers",
     "type": "practice"
   },
   {
-    "name": "resistor-color-trio",
+    "name": "rectangles",
     "type": "practice"
   },
   {
-    "name": "resistor-color",
+    "name": "relative-distance",
     "type": "practice"
   },
   {
@@ -169,10 +257,6 @@
   },
   {
     "name": "rna-transcription",
-    "type": "practice"
-  },
-  {
-    "name": "robot-simulator",
     "type": "practice"
   },
   {
@@ -192,6 +276,10 @@
     "type": "practice"
   },
   {
+    "name": "say",
+    "type": "practice"
+  },
+  {
     "name": "scrabble-score",
     "type": "practice"
   },
@@ -200,7 +288,11 @@
     "type": "practice"
   },
   {
-    "name": "sieve",
+    "name": "series",
+    "type": "practice"
+  },
+  {
+    "name": "sgf-parsing",
     "type": "practice"
   },
   {
@@ -212,7 +304,15 @@
     "type": "practice"
   },
   {
+    "name": "sublist",
+    "type": "practice"
+  },
+  {
     "name": "sum-of-multiples",
+    "type": "practice"
+  },
+  {
+    "name": "transpose",
     "type": "practice"
   },
   {
@@ -220,7 +320,27 @@
     "type": "practice"
   },
   {
+    "name": "twelve-days",
+    "type": "practice"
+  },
+  {
+    "name": "two-bucket",
+    "type": "practice"
+  },
+  {
     "name": "two-fer",
+    "type": "practice"
+  },
+  {
+    "name": "word-count",
+    "type": "practice"
+  },
+  {
+    "name": "wordy",
+    "type": "practice"
+  },
+  {
+    "name": "yacht",
     "type": "practice"
   },
   {

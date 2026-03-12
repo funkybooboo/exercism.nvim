@@ -1,5 +1,9 @@
 [
   {
+    "name": "acronym",
+    "type": "practice"
+  },
+  {
     "name": "affine-cipher",
     "type": "practice"
   },
@@ -28,11 +32,19 @@
     "type": "practice"
   },
   {
+    "name": "bottle-song",
+    "type": "practice"
+  },
+  {
     "name": "change",
     "type": "practice"
   },
   {
     "name": "collatz-conjecture",
+    "type": "practice"
+  },
+  {
+    "name": "connect",
     "type": "practice"
   },
   {
@@ -44,7 +56,15 @@
     "type": "practice"
   },
   {
+    "name": "diamond",
+    "type": "practice"
+  },
+  {
     "name": "difference-of-squares",
+    "type": "practice"
+  },
+  {
+    "name": "dominoes",
     "type": "practice"
   },
   {
@@ -53,6 +73,14 @@
   },
   {
     "name": "flower-field",
+    "type": "practice"
+  },
+  {
+    "name": "food-chain",
+    "type": "practice"
+  },
+  {
+    "name": "game-of-life",
     "type": "practice"
   },
   {
@@ -88,6 +116,14 @@
     "type": "practice"
   },
   {
+    "name": "killer-sudoku-helper",
+    "type": "practice"
+  },
+  {
+    "name": "kindergarten-garden",
+    "type": "practice"
+  },
+  {
     "name": "knapsack",
     "type": "practice"
   },
@@ -100,6 +136,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "luhn",
     "type": "practice"
   },
@@ -108,7 +148,23 @@
     "type": "practice"
   },
   {
+    "name": "matrix",
+    "type": "practice"
+  },
+  {
+    "name": "meetup",
+    "type": "practice"
+  },
+  {
+    "name": "micro-blog",
+    "type": "practice"
+  },
+  {
     "name": "nth-prime",
+    "type": "practice"
+  },
+  {
+    "name": "ocr-numbers",
     "type": "practice"
   },
   {
@@ -124,7 +180,19 @@
     "type": "practice"
   },
   {
+    "name": "pig-latin",
+    "type": "practice"
+  },
+  {
     "name": "prime-factors",
+    "type": "practice"
+  },
+  {
+    "name": "protein-translation",
+    "type": "practice"
+  },
+  {
+    "name": "proverb",
     "type": "practice"
   },
   {
@@ -144,11 +212,31 @@
     "type": "practice"
   },
   {
+    "name": "rectangles",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-duo",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-trio",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color",
+    "type": "practice"
+  },
+  {
     "name": "reverse-string",
     "type": "practice"
   },
   {
     "name": "rna-transcription",
+    "type": "practice"
+  },
+  {
+    "name": "robot-simulator",
     "type": "practice"
   },
   {
@@ -164,6 +252,14 @@
     "type": "practice"
   },
   {
+    "name": "saddle-points",
+    "type": "practice"
+  },
+  {
+    "name": "say",
+    "type": "practice"
+  },
+  {
     "name": "scrabble-score",
     "type": "practice"
   },
@@ -172,7 +268,19 @@
     "type": "practice"
   },
   {
+    "name": "series",
+    "type": "practice"
+  },
+  {
+    "name": "sieve",
+    "type": "practice"
+  },
+  {
     "name": "space-age",
+    "type": "practice"
+  },
+  {
+    "name": "spiral-matrix",
     "type": "practice"
   },
   {
@@ -180,11 +288,27 @@
     "type": "practice"
   },
   {
+    "name": "state-of-tic-tac-toe",
+    "type": "practice"
+  },
+  {
+    "name": "sublist",
+    "type": "practice"
+  },
+  {
     "name": "sum-of-multiples",
     "type": "practice"
   },
   {
+    "name": "transpose",
+    "type": "practice"
+  },
+  {
     "name": "triangle",
+    "type": "practice"
+  },
+  {
+    "name": "twelve-days",
     "type": "practice"
   },
   {
@@ -193,6 +317,18 @@
   },
   {
     "name": "variable-length-quantity",
+    "type": "practice"
+  },
+  {
+    "name": "wordy",
+    "type": "practice"
+  },
+  {
+    "name": "yacht",
+    "type": "practice"
+  },
+  {
+    "name": "zebra-puzzle",
     "type": "practice"
   }
 ]

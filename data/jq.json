@@ -284,6 +284,10 @@
     "type": "practice"
   },
   {
+    "name": "tournament",
+    "type": "practice"
+  },
+  {
     "name": "transpose",
     "type": "practice"
   },

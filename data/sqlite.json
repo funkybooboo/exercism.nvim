@@ -1,6 +1,18 @@
 [
   {
+    "name": "acronym",
+    "type": "practice"
+  },
+  {
+    "name": "all-your-base",
+    "type": "practice"
+  },
+  {
     "name": "allergies",
+    "type": "practice"
+  },
+  {
+    "name": "anagram",
     "type": "practice"
   },
   {
@@ -8,7 +20,27 @@
     "type": "practice"
   },
   {
+    "name": "atbash-cipher",
+    "type": "practice"
+  },
+  {
+    "name": "binary-search",
+    "type": "practice"
+  },
+  {
     "name": "bob",
+    "type": "practice"
+  },
+  {
+    "name": "bottle-song",
+    "type": "practice"
+  },
+  {
+    "name": "bowling",
+    "type": "practice"
+  },
+  {
+    "name": "clock",
     "type": "practice"
   },
   {
@@ -16,11 +48,23 @@
     "type": "practice"
   },
   {
+    "name": "crypto-square",
+    "type": "practice"
+  },
+  {
     "name": "darts",
     "type": "practice"
   },
   {
+    "name": "diamond",
+    "type": "practice"
+  },
+  {
     "name": "difference-of-squares",
+    "type": "practice"
+  },
+  {
+    "name": "dnd-character",
     "type": "practice"
   },
   {
@@ -32,11 +76,27 @@
     "type": "practice"
   },
   {
+    "name": "flatten-array",
+    "type": "practice"
+  },
+  {
+    "name": "food-chain",
+    "type": "practice"
+  },
+  {
     "name": "gigasecond",
     "type": "practice"
   },
   {
+    "name": "grade-school",
+    "type": "practice"
+  },
+  {
     "name": "grains",
+    "type": "practice"
+  },
+  {
+    "name": "hamming",
     "type": "practice"
   },
   {
@@ -48,6 +108,14 @@
     "type": "practice"
   },
   {
+    "name": "house",
+    "type": "practice"
+  },
+  {
+    "name": "isbn-verifier",
+    "type": "practice"
+  },
+  {
     "name": "isogram",
     "type": "practice"
   },
@@ -56,7 +124,15 @@
     "type": "practice"
   },
   {
+    "name": "largest-series-product",
+    "type": "practice"
+  },
+  {
     "name": "leap",
+    "type": "practice"
+  },
+  {
+    "name": "line-up",
     "type": "practice"
   },
   {
@@ -68,6 +144,10 @@
     "type": "practice"
   },
   {
+    "name": "matrix",
+    "type": "practice"
+  },
+  {
     "name": "meetup",
     "type": "practice"
   },
@@ -76,7 +156,47 @@
     "type": "practice"
   },
   {
+    "name": "ocr-numbers",
+    "type": "practice"
+  },
+  {
+    "name": "pangram",
+    "type": "practice"
+  },
+  {
     "name": "pascals-triangle",
+    "type": "practice"
+  },
+  {
+    "name": "perfect-numbers",
+    "type": "practice"
+  },
+  {
+    "name": "phone-number",
+    "type": "practice"
+  },
+  {
+    "name": "pig-latin",
+    "type": "practice"
+  },
+  {
+    "name": "poker",
+    "type": "practice"
+  },
+  {
+    "name": "protein-translation",
+    "type": "practice"
+  },
+  {
+    "name": "proverb",
+    "type": "practice"
+  },
+  {
+    "name": "queen-attack",
+    "type": "practice"
+  },
+  {
+    "name": "rail-fence-cipher",
     "type": "practice"
   },
   {
@@ -88,6 +208,10 @@
     "type": "practice"
   },
   {
+    "name": "resistor-color-trio",
+    "type": "practice"
+  },
+  {
     "name": "resistor-color",
     "type": "practice"
   },
@@ -96,7 +220,15 @@
     "type": "practice"
   },
   {
+    "name": "reverse-string",
+    "type": "practice"
+  },
+  {
     "name": "rna-transcription",
+    "type": "practice"
+  },
+  {
+    "name": "robot-simulator",
     "type": "practice"
   },
   {
@@ -104,7 +236,87 @@
     "type": "practice"
   },
   {
+    "name": "rotational-cipher",
+    "type": "practice"
+  },
+  {
+    "name": "run-length-encoding",
+    "type": "practice"
+  },
+  {
+    "name": "saddle-points",
+    "type": "practice"
+  },
+  {
+    "name": "say",
+    "type": "practice"
+  },
+  {
+    "name": "scrabble-score",
+    "type": "practice"
+  },
+  {
+    "name": "secret-handshake",
+    "type": "practice"
+  },
+  {
+    "name": "series",
+    "type": "practice"
+  },
+  {
+    "name": "sieve",
+    "type": "practice"
+  },
+  {
+    "name": "space-age",
+    "type": "practice"
+  },
+  {
+    "name": "square-root",
+    "type": "practice"
+  },
+  {
+    "name": "state-of-tic-tac-toe",
+    "type": "practice"
+  },
+  {
+    "name": "sublist",
+    "type": "practice"
+  },
+  {
+    "name": "sum-of-multiples",
+    "type": "practice"
+  },
+  {
+    "name": "swift-scheduling",
+    "type": "practice"
+  },
+  {
+    "name": "tournament",
+    "type": "practice"
+  },
+  {
+    "name": "transpose",
+    "type": "practice"
+  },
+  {
+    "name": "triangle",
+    "type": "practice"
+  },
+  {
+    "name": "twelve-days",
+    "type": "practice"
+  },
+  {
     "name": "two-fer",
+    "type": "practice"
+  },
+  {
+    "name": "word-count",
+    "type": "practice"
+  },
+  {
+    "name": "wordy",
     "type": "practice"
   },
   {

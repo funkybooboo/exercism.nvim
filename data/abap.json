@@ -60,11 +60,19 @@
     "type": "practice"
   },
   {
+    "name": "eliuds-eggs",
+    "type": "practice"
+  },
+  {
     "name": "elyses-enchantments",
     "type": "practice"
   },
   {
     "name": "etl",
+    "type": "practice"
+  },
+  {
+    "name": "flower-field",
     "type": "practice"
   },
   {
@@ -112,6 +120,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "matrix",
     "type": "practice"
   },
@@ -136,7 +148,19 @@
     "type": "practice"
   },
   {
+    "name": "protein-translation",
+    "type": "practice"
+  },
+  {
     "name": "raindrops",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-duo",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-trio",
     "type": "practice"
   },
   {

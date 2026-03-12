@@ -1,6 +1,118 @@
 [
   {
+    "name": "acronym",
+    "type": "practice"
+  },
+  {
+    "name": "all-your-base",
+    "type": "practice"
+  },
+  {
+    "name": "allergies",
+    "type": "practice"
+  },
+  {
+    "name": "anagram",
+    "type": "practice"
+  },
+  {
+    "name": "armstrong-numbers",
+    "type": "practice"
+  },
+  {
+    "name": "atbash-cipher",
+    "type": "practice"
+  },
+  {
+    "name": "bank-account",
+    "type": "practice"
+  },
+  {
+    "name": "binary-search-tree",
+    "type": "practice"
+  },
+  {
+    "name": "binary-search",
+    "type": "practice"
+  },
+  {
+    "name": "bob",
+    "type": "practice"
+  },
+  {
+    "name": "book-store",
+    "type": "practice"
+  },
+  {
+    "name": "bottle-song",
+    "type": "practice"
+  },
+  {
+    "name": "bowling",
+    "type": "practice"
+  },
+  {
+    "name": "change",
+    "type": "practice"
+  },
+  {
+    "name": "circular-buffer",
+    "type": "practice"
+  },
+  {
+    "name": "clock",
+    "type": "practice"
+  },
+  {
+    "name": "collatz-conjecture",
+    "type": "practice"
+  },
+  {
+    "name": "custom-set",
+    "type": "practice"
+  },
+  {
+    "name": "darts",
+    "type": "practice"
+  },
+  {
+    "name": "diamond",
+    "type": "practice"
+  },
+  {
     "name": "difference-of-squares",
+    "type": "practice"
+  },
+  {
+    "name": "dnd-character",
+    "type": "practice"
+  },
+  {
+    "name": "dominoes",
+    "type": "practice"
+  },
+  {
+    "name": "eliuds-eggs",
+    "type": "practice"
+  },
+  {
+    "name": "flatten-array",
+    "type": "practice"
+  },
+  {
+    "name": "food-chain",
+    "type": "practice"
+  },
+  {
+    "name": "forth",
+    "type": "practice"
+  },
+  {
+    "name": "gigasecond",
+    "type": "practice"
+  },
+  {
+    "name": "grade-school",
     "type": "practice"
   },
   {
@@ -8,7 +120,31 @@
     "type": "practice"
   },
   {
+    "name": "hamming",
+    "type": "practice"
+  },
+  {
     "name": "hello-world",
+    "type": "practice"
+  },
+  {
+    "name": "high-scores",
+    "type": "practice"
+  },
+  {
+    "name": "intergalactic-transmission",
+    "type": "practice"
+  },
+  {
+    "name": "isbn-verifier",
+    "type": "practice"
+  },
+  {
+    "name": "isogram",
+    "type": "practice"
+  },
+  {
+    "name": "knapsack",
     "type": "practice"
   },
   {
@@ -16,7 +152,135 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
+    "name": "linked-list",
+    "type": "practice"
+  },
+  {
+    "name": "list-ops",
+    "type": "practice"
+  },
+  {
+    "name": "luhn",
+    "type": "practice"
+  },
+  {
+    "name": "matching-brackets",
+    "type": "practice"
+  },
+  {
+    "name": "nucleotide-count",
+    "type": "practice"
+  },
+  {
+    "name": "pangram",
+    "type": "practice"
+  },
+  {
+    "name": "pascals-triangle",
+    "type": "practice"
+  },
+  {
+    "name": "perfect-numbers",
+    "type": "practice"
+  },
+  {
+    "name": "protein-translation",
+    "type": "practice"
+  },
+  {
+    "name": "proverb",
+    "type": "practice"
+  },
+  {
+    "name": "pythagorean-triplet",
+    "type": "practice"
+  },
+  {
+    "name": "queen-attack",
+    "type": "practice"
+  },
+  {
+    "name": "raindrops",
+    "type": "practice"
+  },
+  {
+    "name": "rational-numbers",
+    "type": "practice"
+  },
+  {
+    "name": "resistor-color-duo",
+    "type": "practice"
+  },
+  {
     "name": "resistor-color",
+    "type": "practice"
+  },
+  {
+    "name": "reverse-string",
+    "type": "practice"
+  },
+  {
+    "name": "rna-transcription",
+    "type": "practice"
+  },
+  {
+    "name": "robot-name",
+    "type": "practice"
+  },
+  {
+    "name": "robot-simulator",
+    "type": "practice"
+  },
+  {
+    "name": "roman-numerals",
+    "type": "practice"
+  },
+  {
+    "name": "series",
+    "type": "practice"
+  },
+  {
+    "name": "sieve",
+    "type": "practice"
+  },
+  {
+    "name": "simple-cipher",
+    "type": "practice"
+  },
+  {
+    "name": "space-age",
+    "type": "practice"
+  },
+  {
+    "name": "triangle",
+    "type": "practice"
+  },
+  {
+    "name": "two-bucket",
+    "type": "practice"
+  },
+  {
+    "name": "two-fer",
+    "type": "practice"
+  },
+  {
+    "name": "word-count",
+    "type": "practice"
+  },
+  {
+    "name": "yacht",
+    "type": "practice"
+  },
+  {
+    "name": "zebra-puzzle",
+    "type": "practice"
+  },
+  {
+    "name": "zipper",
     "type": "practice"
   }
 ]

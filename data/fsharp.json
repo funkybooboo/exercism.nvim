@@ -36,7 +36,15 @@
     "type": "concept"
   },
   {
+    "name": "password-checker",
+    "type": "concept"
+  },
+  {
     "name": "pizza-pricing",
+    "type": "concept"
+  },
+  {
+    "name": "role-playing-game",
     "type": "concept"
   },
   {

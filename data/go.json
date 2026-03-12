@@ -148,6 +148,10 @@
     "type": "practice"
   },
   {
+    "name": "baffling-birthdays",
+    "type": "practice"
+  },
+  {
     "name": "bank-account",
     "type": "practice"
   },
@@ -181,6 +185,10 @@
   },
   {
     "name": "bowling",
+    "type": "practice"
+  },
+  {
+    "name": "camicia",
     "type": "practice"
   },
   {
@@ -244,6 +252,10 @@
     "type": "practice"
   },
   {
+    "name": "eliuds-eggs",
+    "type": "practice"
+  },
+  {
     "name": "error-handling",
     "type": "practice"
   },
@@ -256,11 +268,19 @@
     "type": "practice"
   },
   {
+    "name": "flower-field",
+    "type": "practice"
+  },
+  {
     "name": "food-chain",
     "type": "practice"
   },
   {
     "name": "forth",
+    "type": "practice"
+  },
+  {
+    "name": "game-of-life",
     "type": "practice"
   },
   {
@@ -292,7 +312,15 @@
     "type": "practice"
   },
   {
+    "name": "high-scores",
+    "type": "practice"
+  },
+  {
     "name": "house",
+    "type": "practice"
+  },
+  {
+    "name": "intergalactic-transmission",
     "type": "practice"
   },
   {
@@ -301,6 +329,10 @@
   },
   {
     "name": "isogram",
+    "type": "practice"
+  },
+  {
+    "name": "killer-sudoku-helper",
     "type": "practice"
   },
   {
@@ -321,6 +353,10 @@
   },
   {
     "name": "ledger",
+    "type": "practice"
+  },
+  {
+    "name": "line-up",
     "type": "practice"
   },
   {
@@ -349,6 +385,10 @@
   },
   {
     "name": "meetup",
+    "type": "practice"
+  },
+  {
+    "name": "micro-blog",
     "type": "practice"
   },
   {
@@ -416,6 +456,10 @@
     "type": "practice"
   },
   {
+    "name": "prism",
+    "type": "practice"
+  },
+  {
     "name": "protein-translation",
     "type": "practice"
   },
@@ -440,11 +484,19 @@
     "type": "practice"
   },
   {
+    "name": "rational-numbers",
+    "type": "practice"
+  },
+  {
     "name": "react",
     "type": "practice"
   },
   {
     "name": "rectangles",
+    "type": "practice"
+  },
+  {
+    "name": "relative-distance",
     "type": "practice"
   },
   {
@@ -492,6 +544,10 @@
     "type": "practice"
   },
   {
+    "name": "satellite",
+    "type": "practice"
+  },
+  {
     "name": "say",
     "type": "practice"
   },
@@ -532,6 +588,14 @@
     "type": "practice"
   },
   {
+    "name": "split-second-stopwatch",
+    "type": "practice"
+  },
+  {
+    "name": "square-root",
+    "type": "practice"
+  },
+  {
     "name": "state-of-tic-tac-toe",
     "type": "practice"
   },
@@ -545,6 +609,10 @@
   },
   {
     "name": "sum-of-multiples",
+    "type": "practice"
+  },
+  {
+    "name": "swift-scheduling",
     "type": "practice"
   },
   {

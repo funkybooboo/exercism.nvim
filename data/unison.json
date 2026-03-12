@@ -76,6 +76,14 @@
     "type": "practice"
   },
   {
+    "name": "flower-field",
+    "type": "practice"
+  },
+  {
+    "name": "game-of-life",
+    "type": "practice"
+  },
+  {
     "name": "hello-world",
     "type": "practice"
   },

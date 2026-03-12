@@ -192,6 +192,10 @@
     "type": "practice"
   },
   {
+    "name": "camicia",
+    "type": "practice"
+  },
+  {
     "name": "change",
     "type": "practice"
   },
@@ -352,6 +356,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "linked-list",
     "type": "practice"
   },
@@ -441,6 +449,10 @@
   },
   {
     "name": "prime-factors",
+    "type": "practice"
+  },
+  {
+    "name": "prism",
     "type": "practice"
   },
   {
@@ -577,6 +589,10 @@
   },
   {
     "name": "spiral-matrix",
+    "type": "practice"
+  },
+  {
+    "name": "split-second-stopwatch",
     "type": "practice"
   },
   {

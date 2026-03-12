@@ -44,6 +44,10 @@
     "type": "practice"
   },
   {
+    "name": "change",
+    "type": "practice"
+  },
+  {
     "name": "circular-buffer",
     "type": "practice"
   },
@@ -124,6 +128,10 @@
     "type": "practice"
   },
   {
+    "name": "killer-sudoku-helper",
+    "type": "practice"
+  },
+  {
     "name": "kindergarten-garden",
     "type": "practice"
   },
@@ -140,11 +148,23 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "luhn",
     "type": "practice"
   },
   {
     "name": "matching-brackets",
+    "type": "practice"
+  },
+  {
+    "name": "matrix",
+    "type": "practice"
+  },
+  {
+    "name": "meetup",
     "type": "practice"
   },
   {
@@ -208,6 +228,10 @@
     "type": "practice"
   },
   {
+    "name": "rectangles",
+    "type": "practice"
+  },
+  {
     "name": "resistor-color-duo",
     "type": "practice"
   },
@@ -248,6 +272,10 @@
     "type": "practice"
   },
   {
+    "name": "say",
+    "type": "practice"
+  },
+  {
     "name": "scrabble-score",
     "type": "practice"
   },
@@ -276,6 +304,10 @@
     "type": "practice"
   },
   {
+    "name": "sublist",
+    "type": "practice"
+  },
+  {
     "name": "sum-of-multiples",
     "type": "practice"
   },
@@ -293,6 +325,14 @@
   },
   {
     "name": "two-fer",
+    "type": "practice"
+  },
+  {
+    "name": "variable-length-quantity",
+    "type": "practice"
+  },
+  {
+    "name": "wordy",
     "type": "practice"
   },
   {

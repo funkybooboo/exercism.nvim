@@ -32,6 +32,10 @@
     "type": "practice"
   },
   {
+    "name": "binary-search-tree",
+    "type": "practice"
+  },
+  {
     "name": "binary-search",
     "type": "practice"
   },
@@ -108,6 +112,10 @@
     "type": "practice"
   },
   {
+    "name": "flatten-array",
+    "type": "practice"
+  },
+  {
     "name": "flower-field",
     "type": "practice"
   },
@@ -180,6 +188,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "linked-list",
     "type": "practice"
   },
@@ -217,6 +229,10 @@
   },
   {
     "name": "nucleotide-count",
+    "type": "practice"
+  },
+  {
+    "name": "ocr-numbers",
     "type": "practice"
   },
   {
@@ -312,6 +328,10 @@
     "type": "practice"
   },
   {
+    "name": "robot-simulator",
+    "type": "practice"
+  },
+  {
     "name": "roman-numerals",
     "type": "practice"
   },
@@ -325,6 +345,10 @@
   },
   {
     "name": "saddle-points",
+    "type": "practice"
+  },
+  {
+    "name": "satellite",
     "type": "practice"
   },
   {
@@ -360,6 +384,10 @@
     "type": "practice"
   },
   {
+    "name": "split-second-stopwatch",
+    "type": "practice"
+  },
+  {
     "name": "square-root",
     "type": "practice"
   },
@@ -377,6 +405,10 @@
   },
   {
     "name": "sum-of-multiples",
+    "type": "practice"
+  },
+  {
+    "name": "tournament",
     "type": "practice"
   },
   {

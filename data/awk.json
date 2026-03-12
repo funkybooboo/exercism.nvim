@@ -8,6 +8,10 @@
     "type": "concept"
   },
   {
+    "name": "vehicle-purchase",
+    "type": "concept"
+  },
+  {
     "name": "acronym",
     "type": "practice"
   },
@@ -172,6 +176,10 @@
     "type": "practice"
   },
   {
+    "name": "line-up",
+    "type": "practice"
+  },
+  {
     "name": "list-ops",
     "type": "practice"
   },
@@ -229,6 +237,10 @@
   },
   {
     "name": "prime-factors",
+    "type": "practice"
+  },
+  {
+    "name": "prism",
     "type": "practice"
   },
   {
